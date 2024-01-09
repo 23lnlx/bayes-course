@@ -1,6 +1,6 @@
-##First lecture of the mini course.
+## First lecture of the mini course.
 
-#Bayes Theorem Application, Bayesian Iteration and Bayesian Networks
+# Bayes Theorem Application, Bayesian Iteration and Bayesian Networks
 
 Videos: [RU] [https://youtu.be/EF1FE07PmVU?si=5fhqie9xnid8QZfN](https://youtu.be/EF1FE07PmVU?si=5fhqie9xnid8QZfN)
 

@@ -1,8 +1,6 @@
-## First lecture
-
 ## Introduction to Bayesian Statistics. Bayes Theorem Applications
 
-### Bayes Theorem Application, Bayesian Iteration and Bayesian Networks
+__Bayes Theorem Application, Bayesian Iteration and Bayesian Networks__
 
 Video: [RU] [https://youtu.be/EF1FE07PmVU?si=5fhqie9xnid8QZfN](https://youtu.be/EF1FE07PmVU?si=5fhqie9xnid8QZfN)
 

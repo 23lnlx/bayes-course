@@ -1,9 +1,7 @@
-## First lecture
+## Introduction to Bayesian Statistics. Inference in Conjugate cases
 
-## Introduction to Bayesian Statistics. Bayes Theorem Applications
+__ Baysian Point Estimation and Hypotheses Testing, Exponential-Gamma and Binomial-Beta Conjugates, Bayesian A/B Testing __
 
-### Bayes Theorem Application, Bayesian Iteration and Bayesian Networks
+Video: [RU] [https://youtu.be/j1_iZ4HZcmc?si=j64a3T4Lyx-dZElo](https://youtu.be/j1_iZ4HZcmc?si=j64a3T4Lyx-dZElo)
 
-Video: [RU] [https://youtu.be/EF1FE07PmVU?si=5fhqie9xnid8QZfN](https://youtu.be/EF1FE07PmVU?si=5fhqie9xnid8QZfN)
-
-Slides: [EN] [https://docs.google.com/presentation/d/1r6Fu72EmPyZY1g5fxtfegHd6U5-c5lM66QccV_OrDLc/edit?usp=sharing)https://docs.google.com/presentation/d/1r6Fu72EmPyZY1g5fxtfegHd6U5-c5lM66QccV_OrDLc/edit?usp=sharing](https://docs.google.com/presentation/d/1r6Fu72EmPyZY1g5fxtfegHd6U5-c5lM66QccV_OrDLc/edit?usp=sharing)
+Slides: [EN] [https://docs.google.com/presentation/d/1g8QTbatcdiS_75rPoAyBEDMBpUb7Vu2zrot4Bfpnd04/edit?usp=sharing](https://docs.google.com/presentation/d/1g8QTbatcdiS_75rPoAyBEDMBpUb7Vu2zrot4Bfpnd04/edit?usp=sharing)

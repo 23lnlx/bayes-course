@@ -1,6 +1,6 @@
 ## Introduction to Bayesian Statistics. MCMC and Applications
 
-__Metropos-Hasting Algorithm, Bayesian ANOVA, Bayesian Regression__
+__Metropolis–Hastings algorithm, Bayesian ANOVA, Bayesian Regression__
 
 Video: [RU] [https://youtu.be/QAbNks6Lrdg?si=k7vGCJNt8MW_dvjY](https://youtu.be/QAbNks6Lrdg?si=k7vGCJNt8MW_dvjY)
 
